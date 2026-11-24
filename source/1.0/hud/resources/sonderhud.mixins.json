@@ -1,0 +1,1 @@
+{"required":true,"package":"sonder.hud.mixin","compatibilityLevel":"JAVA_21","client":["HudMixin","MouseMixin","KeyboardMixin"],"injectors":{"defaultRequire":1}}
