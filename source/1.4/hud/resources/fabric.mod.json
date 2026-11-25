@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"sonderhud","version":"0.3.0","name":"Vesper HUD","description":"Right Shift opens your HUD and layout editor.","environment":"client","mixins":["sonderhud.mixins.json"],"depends":{"fabricloader":">=0.18.0","minecraft":"1.21.11","java":">=21"}}
